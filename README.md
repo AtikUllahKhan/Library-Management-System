@@ -5,9 +5,10 @@ A desktop app that helps a small library keep track of its books, students, libr
 I built this for my **Object Oriented Programming 2** course. The goal of the course was to stop writing "everything in one form" code and start thinking in classes, layers, and responsibilities. This project is where I practiced that. It is not a commercial product, but it does work end to end, and I learned a lot building it.
 </p>
 ---
-## ✨ What it can do
 
-###  Admin
+##  What it can do
+
+### Admin
 - Add, update, and remove **librarians**
 - See the full **book list** and **student list**
 - View and edit their own profile
@@ -25,7 +26,7 @@ I built this for my **Object Oriented Programming 2** course. The goal of the co
 - See their **own borrowing activity**
 - View and edit their own profile and change their password
 - 
---- 
+
 ---
 
 ##  OOP ideas
