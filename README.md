@@ -4,6 +4,7 @@
 A desktop app that helps a small library keep track of its books, students, librarians, and who borrowed what.
 I built this for my **Object Oriented Programming 2** course. The goal of the course was to stop writing "everything in one form" code and start thinking in classes, layers, and responsibilities. This project is where I practiced that. It is not a commercial product, but it does work end to end, and I learned a lot building it.
 </p>
+
 ---
 
 ##  What it can do
