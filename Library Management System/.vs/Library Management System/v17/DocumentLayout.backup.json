@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\models\\sqldbdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\sqldbdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\adminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|e:\\aiub\\semester 5\\oop2\\library management system\\library management system\\models\\logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\logins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\models\\libririans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\libririans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\allbooksdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\allbooksdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\ownactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\ownactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\studentchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\studentchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\studenthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\studenthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\managebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\managebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\managestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\managestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\library management system\\views\\managestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68ECAFAB-1D78-44A8-A26E-FEF1B0E74D3B}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\views\\managestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Changepassword.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Changepassword.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Changepassword.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Changepassword.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\Changepassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:01:01.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booklist.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Booklist.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Booklist.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Booklist.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\Booklist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:01:00.132Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adminhome.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Adminhome.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Adminhome.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Adminhome.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\Adminhome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:00:32.365Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Studentprofile.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Studentprofile.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Studentprofile.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Studentprofile.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\Studentprofile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:08:30.747Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\Login.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Login.cs",
+              "RelativeToolTip": "Library Management System\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:08:13.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logins.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Logins.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\Logins.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Logins.cs",
+              "RelativeToolTip": "Library Management System\\Models\\Logins.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:16:24.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlDbDataAccess.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\SqlDbDataAccess.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\SqlDbDataAccess.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\SqlDbDataAccess.cs",
+              "RelativeToolTip": "Library Management System\\Models\\SqlDbDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:08:41.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Allbooksdetails.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Allbooksdetails.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Allbooksdetails.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Allbooksdetails.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\Allbooksdetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:00:57.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libririans.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Libririans.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\Libririans.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Libririans.cs",
+              "RelativeToolTip": "Library Management System\\Models\\Libririans.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:36:10.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Librarian.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\Librarian.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Librarian.cs",
+              "RelativeToolTip": "Library Management System\\Models\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:36:13.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginView.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\LoginView.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\LoginView.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\LoginView.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\LoginView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-11T08:30:55.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ownactivity.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Ownactivity.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Ownactivity.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Ownactivity.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\Ownactivity.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:35:22.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profile.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Profile.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Profile.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Profile.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:35:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Studentchangepassword.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Studentchangepassword.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Studentchangepassword.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Studentchangepassword.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\Studentchangepassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:35:16.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Studenthome.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Studenthome.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Studenthome.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Studenthome.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\Studenthome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:35:14.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentList.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\StudentList.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\StudentList.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\StudentList.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\StudentList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:08:31.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Students.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\Students.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Students.cs",
+              "RelativeToolTip": "Library Management System\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:08:35.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\Student.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Student.cs",
+              "RelativeToolTip": "Library Management System\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:08:38.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Registration.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Registration.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Registration.cs [Design]",
+              "RelativeToolTip": "Library Management System\\Views\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-11T08:30:55.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\App.config",
+              "RelativeDocumentMoniker": "Library Management System\\App.config",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\App.config",
+              "RelativeToolTip": "Library Management System\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-10T15:08:27.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Models\\Admin.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Models\\Admin.cs",
+              "RelativeToolTip": "Library Management System\\Models\\Admin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:08:09.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Program.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Program.cs",
+              "RelativeToolTip": "Library Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T15:08:19.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Managebook.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Managebook.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Managebook.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Managebook.cs",
+              "RelativeToolTip": "Library Management System\\Views\\Managebook.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAD4v3IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-11T08:30:54.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Managestudent.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Managestudent.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Managestudent.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Managestudent.cs",
+              "RelativeToolTip": "Library Management System\\Views\\Managestudent.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-05-11T08:30:55.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginView.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\LoginView.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\LoginView.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\LoginView.cs",
+              "RelativeToolTip": "Library Management System\\Views\\LoginView.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAASwGYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-11T08:30:55.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Registration.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Registration.cs",
+              "ToolTip": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Registration.cs",
+              "RelativeToolTip": "Library Management System\\Views\\Registration.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-11T08:30:55.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Managestudent.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\Semester 5\\OOP2\\Library Management System\\Library Management System\\Views\\Managestudent.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Views\\Managestudent.cs",
+              "ToolTip": "C:\\Users\\khair\\Desktop\\client C# project\\Library Management System\\Library Management System\\Views\\Managestudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-05-11T08:30:55.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
